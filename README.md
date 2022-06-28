@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arv-J
 - 👀 I’m interested in HTML, CSS, PHP, MYSQL, JAVASCRIPT and Linux
-- 🌱 I’m currently learning Linux fundamentals and shell scripting
+- 🌱 I’m currently learning OOP languages
 - 💞️ I’m looking for someone who wants to collaborate on my future projects
 - 📫 How to reach me: arvinjay.agillon@g.batstate-u.edu.ph
 
