@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Arv-J
-- 👀 I’m interested in HTML, CSS, PHP, MYSQL, JAVASCRIPT and Linux
-- 🌱 I’m currently learning OOP languages
-- 💞️ I’m looking for someone who wants to collaborate on my future projects
-- 📫 How to reach me: arvinjay.agillon@g.batstate-u.edu.ph
+- 👋 Hi, I’m @Arv-J a Batstate-U student.
+- 👀 A aspiring Front-end developer and can also do minimal back-end jobs using Php.
+- 🌱 I’m currently learning Dart and Flutter.
+- 💞️ I can't memorize syntax but I understand the code structure and how it works.
+- 📫 How to reach me: agillonarvinjay8@gmail.com
+- My hobby are modifying my devices by installing tweaks and custom roms.
+- I can also be a tech support, trouble shooting Windows Os . I can also install operating systems.
+- I have my OJT now as a Tech support in Kabayan broadband. (Lol it sucks! I don't want the training there heehee.) 
 
 <!---
 Arv-J/Arv-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
