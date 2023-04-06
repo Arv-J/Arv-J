@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arv-J a Batstate-U student.
+- 👋 Hi, I’m @Arv-J a Batstate-U student, a Networking Technology major.
 - 👀 A aspiring Front-end developer and can also do minimal back-end jobs using Php.
 - 🌱 I’m currently learning Dart and Flutter.
 - 💞️ I can't memorize syntax but I understand the code structure and how it works.
